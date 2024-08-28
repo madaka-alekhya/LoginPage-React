@@ -6,7 +6,7 @@ import Dashboard from './components/Dashbord';
 import ProtectedRoute from './components/Route';
 import { Navigate } from 'react-router-dom';
 import LandingPage from './Landingpage';
-
+import "./App.css";
 function App() {
   return (
     <Router>
